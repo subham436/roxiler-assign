@@ -26,7 +26,7 @@ Follow these steps to clone and run the project on your local machine:
 2. **Navigate to the Backend**
 
    ```bash
-   cd your-repo/backend
+   cd roxiler-assign/backend
    ```
 
 3. **Install Dependencies**
