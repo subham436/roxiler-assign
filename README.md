@@ -21,7 +21,8 @@ Follow these steps to clone and run the project on your local machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/subham436/roxiler-assign.git```
+   git clone https://github.com/subham436/roxiler-assign.git
+   ```
 
 2. **Navigate to the Backend**
 
